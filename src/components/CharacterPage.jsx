@@ -1,6 +1,6 @@
 import React from 'react'
 import Character from './Character'
-import Stats from './stats'
+import Stats from './Stats'
 
 const CharacterPage = () => {
   return (
